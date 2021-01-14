@@ -1,4 +1,4 @@
-# Tuya Embedded Gateway Router Release Notes
+# Tuya Embedded Gateway Router SDK Release Notes
 
 [English](CHANGELOG.md) | [中文版](CHANGELOG_cn.md)
 
