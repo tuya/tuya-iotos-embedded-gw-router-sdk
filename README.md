@@ -1,18 +1,14 @@
-# tuya-iotos-embedded-gw-router-sdk
-[English](README.md) | [中文版](README_cn.md)
+# Tuya Embedded Gateway Router SDK
 
-## Introduction
-Tuya Embedded Gateway Router Software Development Kit
+[English version](README.md) | [中文版](README_cn.md)
 
+## Get started
 
-## Get Started
+* For detailed instruction about how to use this SDK, see [Pegasus Pairing Router SDK Development](https://developer.tuya.com/en/docs/iot/smart-product-solution/product-solutiongateway/router-pegasus20-pairingzigbee-gateway-sdk/tuya-gateway-pegasus-link-extend-sdk-development-overview?id=K9oozd8n3vscq) on Tuya Developer website.
+* For more information about SDK sample, see [Pegasus Pairing Router SDK Reference
+](https://developer.tuya.com/en/docs/iot/smart-product-solution/product-solutiongateway/router-pegasus20-pairingzigbee-gateway-sdk/tuya-gateway-pegasus-link-extend-sdk-development-manual?id=K9o11h4wnal1l) on Tuya Developer website.
 
-[Development Manual]
-## Demo Reference
+## Technical support
 
-
-## Support
-- Tuya Developer Webiste:https://developer.tuya.com/en/
-- Tuya Smart Help Center: https://support.tuya.com/en/help
-- Technical Support Council: https://service.console.tuya.com
-
+- [Tuya Developer documentation](https://developer.tuya.com/en/docs/iot/)
+- [Technical ticket](https://service.console.tuya.com)
