@@ -4,6 +4,7 @@
 ## Introduction
 Tuya Embedded Gateway Router Software Development Kit
 
+
 ## Get Started
 
 [Development Manual]

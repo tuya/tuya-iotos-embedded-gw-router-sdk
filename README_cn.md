@@ -4,7 +4,9 @@
 
 ## 介绍
 
+tuya_smart_router_gw_ext_sdk 支持路由器设备属性 + 涂鸦网关扩展SDK。
 
+tuya_smart_router_sdk 路由器SDK。
 
 ## 快速开始
 
